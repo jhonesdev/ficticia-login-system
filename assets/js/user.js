@@ -54,7 +54,7 @@ $(document).on('click', '.del', function () {
 });
 
 $(document).on('click', '.edit', function () {
-    let line = $($(this).parent().parent().parent().children());
+    let line = $($(this).parent().parent().children());
     $('#userForm').attr('data-target', line.eq(0).html());
     $('#name').val(line.eq(1).html());
     $('#username').val(line.eq(2).html());

@@ -27,15 +27,15 @@ Copy the files to your hosting
 
 In first access the system check if has users registered, if not the system redirect you to register the first user.
 
-![first access login page](https://github.com/jhonesdev/ficticia-login-system/tree/main/assets/images/doc_1.png?raw=true)
+![first access login page](https://github.com/jhonesdev/ficticia-login-system/blob/main/assets/images/doc_1.png?raw=true)
 
-![first access users page](https://github.com/jhonesdev/ficticia-login-system/tree/main/assets/images/doc_2.png?raw=true)
+![first access users page](https://github.com/jhonesdev/ficticia-login-system/blob/main/assets/images/doc_2.png?raw=true)
 
 After create user your is redirect to login page and dont have access to users page if not logged.
 
-![first access login page](https://github.com/jhonesdev/ficticia-login-system/tree/main/assets/images/doc_3.png?raw=true)
+![first access login page](https://github.com/jhonesdev/ficticia-login-system/blob/main/assets/images/doc_3.png?raw=true)
 
-![first access login page](https://github.com/jhonesdev/ficticia-login-system/tree/main/assets/images/doc_4.png?raw=true)
+![first access login page](https://github.com/jhonesdev/ficticia-login-system/blob/main/assets/images/doc_4.png?raw=true)
 
 
 ## License
